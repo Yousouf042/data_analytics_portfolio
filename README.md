@@ -1,12 +1,12 @@
 # Junior Data Analyst
 
-###Education
+### Education
 B.Sc Mathematics
 
-###Training and Certificates
+### Training and Certificates
 ALX-Africa Data Analytics, ALX-Africa Professional Foundation
 
-###Work Expirience
+### Work Expirience
 ALX-Africa Learning Projects and Collaborations
 
-###Projects
+### Projects
