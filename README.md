@@ -31,7 +31,7 @@ Nigeria Police Academy, 2025
 
 ### 1. Superstore Sales & Profitability Analysis
 
-![Dashboard Preview](assets/superstore_dashboard.png)
+![Dashboard Preview](visuals/superstore_sales_analysis_overview.png)
 
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Power BI  
 **Description:**  
