@@ -29,40 +29,37 @@ Nigeria Police Academy, 2025
 
 ## 📊 Projects
 
-### 1. Netflix Movies & TV Shows Analysis
-**Tools:** Python, Pandas, Power BI  
+### 1. Superstore Sales & Profitability Analysis
+**Tools:** Python (Pandas, Matplotlib, Seaborn), Power BI  
 **Description:**  
-Cleaned and analyzed Netflix movie and TV show dataset to explore trends in ratings, age certifications, and popularity.
+Analyzed a retail Superstore dataset to uncover the key drivers of profit and loss across product categories, regions, customer segments, and shipping methods. The project focused on understanding why high sales volumes did not always translate into profitability and identifying underperforming product–region combinations.
 
 **Key Tasks:**
-- Data cleaning and preprocessing
-- Feature engineering (age mapping, missing values)
-- Exploratory data analysis
-- Dashboard visualization in Power BI
+- Data cleaning and preprocessing (handling missing values, data types, feature creation such as profit margin)
+
+- Exploratory data analysis using Python
+
+- Correlation and interaction analysis (discount vs profit margin, category vs region)
+
+- KPI development (Sales, Profit, Profit Margin)
+
+- Interactive dashboard design in Power BI with drill-through and storytelling layout
 
 **Insights:**
-- Most content targets TV-MA and TV-14 audiences  
-- Higher IMDb scores are associated with certain genres  
-- Runtime trends across years  
+- Furniture recorded high sales but low profitability (≈2.5% profit margin), making it the weakest category overall
+
+- States such as Texas, Ohio, Pennsylvania, Illinois, and Florida generated high sales but significant losses
+
+- Tables and Bookcases were the major loss-driving subcategories, while Copiers, Phones, Accessories, and Paper were the top profit contributors
+
+- A strong negative relationship was found between Discount and Profit Margin (correlation ≈ -0.86)
+
+- Ship Mode and Customer Segment showed no significant impact on overall profitability
+
+- The Central and Southern regions underperformed compared to the West, which achieved the highest profitability, especially in Office Supplies 
 
 🔗 [View Project Repository](link_here)
 
----
-
-### 2. Spaceship Titanic Machine Learning Project
-**Tools:** Python, Scikit-learn, XGBoost  
-**Description:**  
-Built a machine learning model to predict whether passengers were transported to another dimension.
-
-**Key Tasks:**
-- Feature engineering (Cabin split, Group size, missing counts)
-- Pipeline with preprocessing and model training
-- Cross-validation and accuracy optimization
-
-**Model Performance:**
-- Accuracy: 0.79+
-
-🔗 [View Project Repository](link_here)
 
 ## 📘 Learning & Certifications
 
@@ -73,18 +70,22 @@ Built a machine learning model to predict whether passengers were transported to
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/yusuf-nafiu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
+<div style="display:flex; gap:15px; align-items:center;">
 
-<a href="https://github.com/Yousouf042" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/yusuf-nafiu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+  </a>
 
-<a href="mailto:yusufnafiurc7@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
-</a>
+  <a href="https://github.com/Yousouf042" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" />
+  </a>
 
-<a href="https://www.kaggle.com/yusufnafiu" target="_blank">
-  <img src="https://www.kaggle.com/static/images/site-logo.png" width="40"/>
-</a>
+  <a href="mailto:yusufnafiurc7@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="28"/>
+  </a>
+
+  <a href="https://www.kaggle.com/yusufnafiu" target="_blank">
+    <img src="https://www.kaggle.com/static/images/site-logo.png" width="28"/>
+  </a>
+
+</div>
