@@ -30,6 +30,9 @@ Nigeria Police Academy, 2025
 ## 📊 Projects
 
 ### 1. Superstore Sales & Profitability Analysis
+
+![Dashboard Preview](assets/superstore_dashboard.png)
+
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Power BI  
 **Description:**  
 Analyzed a retail Superstore dataset to uncover the key drivers of profit and loss across product categories, regions, customer segments, and shipping methods. The project focused on understanding why high sales volumes did not always translate into profitability and identifying underperforming product–region combinations.
