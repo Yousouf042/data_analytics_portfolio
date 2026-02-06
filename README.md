@@ -58,7 +58,7 @@ Analyzed a retail Superstore dataset to uncover the key drivers of profit and lo
 
 - The Central and Southern regions underperformed compared to the West, which achieved the highest profitability, especially in Office Supplies 
 
-🔗 [View Project Repository](link_here)
+🔗 [View Project Repository](https://github.com/Yousouf042/superstore-sales-analysis)
 
 
 ## 📘 Learning & Certifications
