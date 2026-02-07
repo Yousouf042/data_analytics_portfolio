@@ -6,11 +6,11 @@
 Most businesses are sitting on a goldmine of data, yet they’re still making decisions based on "gut feeling." In a volatile market, guessing is a luxury you can’t afford. Whether you are looking to plug silent profit leaks, optimize your sales funnel, or scale your operations with mathematical certainty, I provide the roadmap to get you there. I don’t just deliver dashboards; I deliver the clarity required to protect your margins and outpace your competition.
 ### 💡The Value I Bring to Your Table:
 
-**Clarity**: Interactive Power BI environments that strip away the noise and tell the true story of your business performance in real-time.
+**Clarity**: Interactive Power BI dashboards that strip away the noise and tell the true story of your business performance in real-time.
 
 **Strategy**: Comprehensive business reports that move beyond "what happened" to exactly what to do next with ROI-driven recommendations.
 
-**Precision**: Enterprise-grade analysis powered by SQL, Python, and Advanced Excel—ensuring your strategy is built on a foundation of ironclad logic.
+**Precision**: Enterprise-grade analysis powered by SQL, Python, and Advanced Excel, ensuring your strategy is built on a foundation of ironclad logic.
 ### ⚠️Don’t let another quarter of "guesswork" drain your bottom line. 
 
 ## 🛠️ Technical Skills
